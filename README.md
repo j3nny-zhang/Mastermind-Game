@@ -14,7 +14,7 @@ My aim is to create several "attempts" of the game per week, each time tweaking 
 
 Given these rules, I knew I would have to learn some of the most fundamental components of Python, namely functions, if statements, and loops. Going in, I had a mild understanding of functions and if statements, but my knowledge stopped there. <br/><br/>
 
-**Looking at my first code:**
+**Looking at my first code:**<br/>
 With some knowledge from my Python-Game tests (another repository), I knew that I had to import the library "random" so that my variable ranNum could generate the list of 4 numbers. 
 
-![Generating ranNum](/documents/Coding/Mastermind/generating_ranNum.PNG raw=true "Generating ranNum")
+![Generating ranNum](⁨Macintosh HD⁩/⁨Users⁩/jennyzhang/documents/Coding/Mastermind/generating_ranNum.PNG raw=true "Generating ranNum")
