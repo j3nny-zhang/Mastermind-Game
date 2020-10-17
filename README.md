@@ -26,7 +26,7 @@ As shown in the image, I learned about for loops and ranges so that ranNum could
 * while loops
 * differentiating between list indices/indexes and values
 
-**What I want to modify for my next attemp** <br/>
+**What I want to modify for my next attempt** <br/>
 - [ ] Identify when the user does not enter an integer number, or enters a numbers outside the range of 1-6
 - [ ] Simplify the O counter (it is currently made of 4 if statements)<br/>
 ![O_counter](https://github.com/j3nny-zhang/Mastermind-Game/blob/main/images/O_counter.png)
