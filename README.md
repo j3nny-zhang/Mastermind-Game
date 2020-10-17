@@ -17,4 +17,4 @@ Given these rules, I knew I would have to learn some of the most fundamental com
 **Looking at my first code:**
 With some knowledge from my Python-Game tests (another repository), I knew that I had to import the library "random" so that my variable ranNum could generate the list of 4 numbers. 
 
-![Generating ranNum](/documents/Coding/generating_ranNum.PNG?raw=true "Generating ranNum")
+![Generating ranNum](/documents/Coding/Mastermind/generating_ranNum.PNG?raw=true "Generating ranNum")
