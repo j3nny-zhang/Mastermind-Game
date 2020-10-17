@@ -18,3 +18,18 @@ Given these rules, I knew I would have to learn some of the most fundamental com
 With some knowledge from my Python-Game tests (another repository), I knew that I had to import the library "random" so that my variable ranNum could generate the list of 4 numbers. 
 
 ![Generating ranNum](https://github.com/j3nny-zhang/Mastermind-Game/blob/main/images/generating_ranNum.png)
+
+As shown in the image, I learned about for loops and ranges so that ranNum could generate the random list. Further on in the code, I also learned about the while loop to continue the game, as long as ranNum != userList (ie. the user has not correctly guessed the random list). <br/><br/>
+
+**What I've learned in my first attempt**
+* for loops
+* while loops
+* differentiating between list indices/indexes and values
+
+**What I want to modify for my next attemp** <br/>
+- [ ] Identify when the user does not enter an integer number, or enters a numbers outside the range of 1-6
+- [ ] Simplify the O counter (it is currently made of 4 if statements)
+![O_counter](https://github.com/j3nny-zhang/Mastermind-Game/blob/main/images/generating_ranNum.png)
+- [ ] get X counter working (right now it adds a point each time there is a duplicated number - for instance, if ranNum is 1 2 3 4 and userList is 3 3 6 3, as <br/>
+both lists contain a 3, I want the X counter to go up by one; however, it currently goes up by 3 as there are three 3s.)
+![X_counter](https://github.com/j3nny-zhang/Mastermind-Game/blob/main/images/generating_ranNum.png)
