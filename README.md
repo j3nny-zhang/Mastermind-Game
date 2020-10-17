@@ -30,5 +30,5 @@ As shown in the image, I learned about for loops and ranges so that ranNum could
 - [ ] Identify when the user does not enter an integer number, or enters a numbers outside the range of 1-6
 - [ ] Simplify the O counter (it is currently made of 4 if statements)<br/>
 ![O_counter](https://github.com/j3nny-zhang/Mastermind-Game/blob/main/images/O_counter.png)
-- [ ] get X counter working (right now it adds a point each time there is a duplicated number - for instance, if ranNum is 1 2 3 4 and userList is 3 3 6 3, as both lists contain a 3, I want the X counter to go up by one; however, it currently goes up by 3 as there are three 3s.)
+- [ ] get X counter working (right now it adds a point each time there is a duplicated number - for instance, if ranNum is 1 2 3 4 and userList is 3 3 6 3, as both lists contain a 3, I want the X counter to go up by one; however, it currently goes up by 3 as there are three 3s.)<br/>
 ![X_counter](https://github.com/j3nny-zhang/Mastermind-Game/blob/main/images/X_counter.png)
